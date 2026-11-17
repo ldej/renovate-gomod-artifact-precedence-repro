@@ -5,7 +5,7 @@ go 1.26.0
 require (
 	github.com/ldej/renovate-gomod-artifact-precedence-repro/pkg/cache v0.0.0-00010101000000-000000000000
 	github.com/nats-io/nats.go v1.55.0
-	github.com/valkey-io/valkey-go v1.0.79
+	github.com/valkey-io/valkey-go v1.0.80
 )
 
 require (
